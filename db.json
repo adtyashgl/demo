@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "v1/action/register": [
+    {"user": "sonal","password": "password",
+     "host": "192.168.0.221", "port": 2020, 
+     "appName" : "default", "clientName": "default",
+     "sessionId" :  12}
+  ]
 }
